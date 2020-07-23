@@ -10,5 +10,5 @@ The project should have few queryFunctions  like
 
 This project has been created using python-Arango and it's CRUD operation.
 
-For ArangoDB installation visit the link below:
+For ArangoDB installation visit the link :
 https://www.arangodb.com/docs/stable/installation.html
